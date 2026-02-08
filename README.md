@@ -63,4 +63,4 @@ script.js
 This project is created for *learning and academic purposes*.
 ## 🌐 Live Demo
 
-👉 https://your-username.github.io/My-To-Do-List/
+👉 https://pallapudharani19-spec.github.io/todo-list/
